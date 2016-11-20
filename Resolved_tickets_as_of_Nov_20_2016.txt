@@ -1,0 +1,67 @@
+ID= 2 
+Issue: BROKEN AS FUCK 
+Priority: 0 
+Reported by: Chris 
+Reported on: Sun Nov 20 15:12:16 CST 2016
+Resolution: fixed as fuck
+Resolution Date: Sun Nov 20 15:25:06 CST 2016ID= 1 
+Issue: Broken PC 
+Priority: 0 
+Reported by: Jen 
+Reported on: Sun Nov 20 14:48:09 CST 2016
+Resolution: wewe
+Resolution Date: Sun Nov 20 15:25:11 CST 2016ID= 3 
+Issue: DOFJDJKFLJFSLKf 
+Priority: 3 
+Reported by: POOP 
+Reported on: Sun Nov 20 15:24:47 CST 2016
+Resolution: wewew
+Resolution Date: Sun Nov 20 15:25:15 CST 2016ID= 3 
+Issue: DOFJDJKFLJFSLKf 
+Priority: 3 
+Reported by: POOP 
+Reported on: Sun Nov 20 15:24:47 CST 2016
+Resolution: ewe
+Resolution Date: Sun Nov 20 15:31:34 CST 2016ID= 4 
+Issue:  
+Priority: 1 
+Reported by:  
+Reported on: Sun Nov 20 15:31:25 CST 2016
+Resolution: wewew
+Resolution Date: Sun Nov 20 15:31:38 CST 2016ID= 4 
+Issue:  
+Priority: 1 
+Reported by:  
+Reported on: Sun Nov 20 15:31:25 CST 2016
+Resolution: wewe
+Resolution Date: Sun Nov 20 15:32:40 CST 2016ID= 4 
+Issue:  
+Priority: 1 
+Reported by:  
+Reported on: Sun Nov 20 15:31:25 CST 2016
+Resolution: wewe
+Resolution Date: Sun Nov 20 15:34:15 CST 2016ID= 5 
+Issue: Broken 
+Priority: 1 
+Reported by: Jen 
+Reported on: Sun Nov 20 15:34:26 CST 2016
+Resolution: 
+Resolution Date: Sun Nov 20 15:37:31 CST 2016ID= 5 
+Issue: Broken 
+Priority: 1 
+Reported by: Jen 
+Reported on: Sun Nov 20 15:34:26 CST 2016
+Resolution: weewe
+Resolution Date: Sun Nov 20 15:43:08 CST 2016ID= 6 
+Issue: Everything 
+Priority: 5 
+Reported by: Bob Moss 
+Reported on: Sun Nov 20 15:43:55 CST 2016
+Resolution: Gummy Bears
+Resolution Date: Sun Nov 20 15:48:07 CST 2016ID= 8 
+Issue: Nuclear Meltdown 
+Priority: 3 
+Reported by: Jason 
+Reported on: Sun Nov 20 15:46:27 CST 2016
+Resolution: Gummy Bears
+Resolution Date: Sun Nov 20 15:49:36 CST 2016
